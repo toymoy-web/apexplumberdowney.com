@@ -1,1 +1,29 @@
-# No redirects needed. Cloudflare Pages resolves slug/index.html natively.
+# 301s for renamed blog slugs (both with and without the trailing slash)
+/blog/where-is-your-main-water-shutoff-valve /blog/main-water-shutoff-valve-downey-ca/ 301
+/blog/where-is-your-main-water-shutoff-valve/ /blog/main-water-shutoff-valve-downey-ca/ 301
+/blog/how-to-flush-a-water-heater /blog/flush-water-heater-downey-ca/ 301
+/blog/how-to-flush-a-water-heater/ /blog/flush-water-heater-downey-ca/ 301
+/blog/why-your-toilet-keeps-running /blog/toilet-keeps-running-downey-ca/ 301
+/blog/why-your-toilet-keeps-running/ /blog/toilet-keeps-running-downey-ca/ 301
+/blog/california-sb-407-plumbing-fixture-rules /blog/sb-407-plumbing-fixture-rules-downey-ca/ 301
+/blog/california-sb-407-plumbing-fixture-rules/ /blog/sb-407-plumbing-fixture-rules-downey-ca/ 301
+/blog/how-to-strap-a-water-heater-in-california /blog/strap-water-heater-downey-ca/ 301
+/blog/how-to-strap-a-water-heater-in-california/ /blog/strap-water-heater-downey-ca/ 301
+/blog/renters-guide-to-plumbing-repairs-in-california /blog/renters-plumbing-repairs-downey-ca/ 301
+/blog/renters-guide-to-plumbing-repairs-in-california/ /blog/renters-plumbing-repairs-downey-ca/ 301
+/blog/what-to-do-when-your-sewer-backs-up /blog/sewer-backup-downey-ca/ 301
+/blog/what-to-do-when-your-sewer-backs-up/ /blog/sewer-backup-downey-ca/ 301
+/blog/how-to-read-your-water-meter /blog/read-water-meter-downey-ca/ 301
+/blog/how-to-read-your-water-meter/ /blog/read-water-meter-downey-ca/ 301
+/blog/how-to-test-water-pressure-at-home /blog/test-water-pressure-downey-ca/ 301
+/blog/how-to-test-water-pressure-at-home/ /blog/test-water-pressure-downey-ca/ 301
+/blog/why-is-my-water-brown-or-rusty /blog/brown-rusty-water-downey-ca/ 301
+/blog/why-is-my-water-brown-or-rusty/ /blog/brown-rusty-water-downey-ca/ 301
+/blog/tank-vs-tankless-water-heaters-southern-california /blog/tank-vs-tankless-water-heater-downey-ca/ 301
+/blog/tank-vs-tankless-water-heaters-southern-california/ /blog/tank-vs-tankless-water-heater-downey-ca/ 301
+/blog/what-not-to-put-down-a-garbage-disposal /blog/garbage-disposal-dos-and-donts-downey-ca/ 301
+/blog/what-not-to-put-down-a-garbage-disposal/ /blog/garbage-disposal-dos-and-donts-downey-ca/ 301
+/blog/does-homeowners-insurance-cover-a-burst-pipe /blog/homeowners-insurance-burst-pipe-downey-ca/ 301
+/blog/does-homeowners-insurance-cover-a-burst-pipe/ /blog/homeowners-insurance-burst-pipe-downey-ca/ 301
+/blog/earthquake-preparedness-for-plumbing-and-gas /blog/earthquake-plumbing-gas-prep-downey-ca/ 301
+/blog/earthquake-preparedness-for-plumbing-and-gas/ /blog/earthquake-plumbing-gas-prep-downey-ca/ 301

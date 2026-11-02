@@ -285,3 +285,7 @@ main h1,main h2,main h3,main h4{margin-bottom:14px}
 .localnote a{color:var(--rose);font-weight:700;text-underline-offset:3px}
 .localnote .src{font-size:14px;color:var(--gray);margin-top:14px}
 .nf-img{display:block;width:100%;max-width:300px;height:auto;margin:0 auto 12px}
+
+.follow-h{margin-top:18px}
+.social-links{display:flex;flex-wrap:wrap;gap:8px 14px}
+.social-links a{display:inline-block;margin:0}
